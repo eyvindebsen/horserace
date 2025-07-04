@@ -196,7 +196,7 @@
 1050 return
 1099 rem statistics
 1100 print:print"statistics:":print
-1105 if tr=0 then print"statisctics not available yet!":return
+1105 if tr=0 then print"statistics not available yet!":return
 1110 forx=1toh
 1120 print"horse"x"has won"sh(x)"of"tr+1"races"int(sh(x)/tr*100)"%"
 1130 next:print:print"statistics for"tr+1"total races."
