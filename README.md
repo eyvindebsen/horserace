@@ -1,4 +1,4 @@
-# Horserace
+# Horse race
 A Commodore 64 BASIC game, with some overkill.
 
 Up to 9 players at the same time. *Party-Version*
